@@ -19,4 +19,3 @@ Check if your Bot is on your Server. If so, run the Bot and it should connect.
 
 CakeClicker#0288 on Discord
 
-My Server: https://discord.gg/NHzXxD8pKF
