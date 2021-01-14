@@ -14,4 +14,5 @@ cmdPrefix will be the prefix you want your Bot to have (! or ? or something).
 Check if your Bot is on your Server. If so, run the Bot and it should connect.
 
 CakeClicker#0288 on Discord
+
 My Server: https://discord.gg/NHzXxD8pKF
