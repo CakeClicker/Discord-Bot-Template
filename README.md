@@ -1,5 +1,5 @@
 # Discord-Bot-Template
-A Discord Bot Template written in c' on .Net Core 3.1
+A Discord Bot Template written in C# on .Net Core 3.1
 
 Run the Code and you should get a Directory called "Resources" in your debug folder.
 Create a json-file called "config.json" and copy this code into it:
